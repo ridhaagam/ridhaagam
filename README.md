@@ -52,13 +52,17 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-
+#
 
 ### 📊 Stats
+<p align="left">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ridhaagam&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ridhaagam&theme=gruvbox&hide_border=true" />
+</p>
 
-![Agam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ridhaagam&show_icons=true&theme=gruvbox)
+<!-- ![Agam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ridhaagam&show_icons=true&theme=gruvbox)
 
-![Agam's GitHub Streak](https://streak-stats.demolab.com?user=ridhaagam&theme=gruvbox&border_radius=4.5)
+![Agam's GitHub Streak](https://streak-stats.demolab.com?user=ridhaagam&theme=gruvbox&border_radius=4.5) -->
 
 #
 
