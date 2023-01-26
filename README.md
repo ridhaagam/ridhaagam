@@ -1,4 +1,4 @@
-# ✨ Muh. Ridha Agam
+# ✨ Hi all! My name is Muh. Ridha Agam
 
 **`Web Developer & Data Enthusiasts`**
 
@@ -13,12 +13,13 @@
              <img alt="instagram" title="Follow me on Instagram" src="https://custom-icon-badges.demolab.com/badge/-Follow%20me%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
     <!-- github followers -->
       <a href="https://github.com/ridhaagam?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ridhaagam?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    </p>
 
 ---
 
 ### 🧰 Languages and Tools
+
 <!-- Php -->
 <img align="left" alt="Php" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <!-- Java -->
@@ -53,12 +54,14 @@
 <br />
 
 #
+
 ---
 
 ### 📊 Stats
+
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ridhaagam&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img width="51.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ridhaagam&theme=tokyonight&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ridhaagam&theme=tokyonight&hide_border=true" />
 </p>
 
 <!-- ![Agam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ridhaagam&show_icons=true&theme=gruvbox)
@@ -70,4 +73,3 @@
 <details>
  <summary><h3>👨‍💻 Background</h3></summary>
     .....
-
