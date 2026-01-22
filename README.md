@@ -14,7 +14,7 @@
 <!-- Stats Cards Row -->
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ridhaagam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ridhaagam&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=6C63FF&sideLabels=6C63FF&dates=8B949E" alt="GitHub Streak" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=ridhaagam&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=6C63FF&sideLabels=6C63FF&dates=8B949E" alt="GitHub Streak" />
 </p>
 
 <!-- Top Languages Card -->
@@ -71,8 +71,3 @@
 </p>
 
 #
-
-<details>
- <summary><h3>👨‍💻 Background</h3></summary>
-Feel free to reach out if you're into CV/AI or just want to chat about tech!
-</details>
